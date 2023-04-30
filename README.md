@@ -24,7 +24,7 @@
 ## 🤍 Developer
 ||벼리/김새별|아리/장채은|
 |---|---|---|
-|개발 일지|<A href = "https://github.com/mock-rc12/instagram_server_byeori_ari/blob/main/byeori.md"> byeori 개발일지 </A>|<A href = "https://github.com/mock-rc12/instagram_server_byeori_ari/blob/main/ari.md"> ari 개발일지 </A>|
+|개발 일지|<A href = "https://github.com/chaerlo127/rising-test/blob/main/byeori.md"> byeori 개발일지 </A>|<A href = "https://github.com/chaerlo127/rising-test/blob/main/ari.md"> ari 개발일지 </A>|
 |Github|<A href = "https://github.com/saebyeolKim"> saebyeolKim </A>|<A href = "https://github.com/chaerlo127"> chaerlo127 </A>|
 
 <br>
